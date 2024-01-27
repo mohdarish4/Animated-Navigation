@@ -16,7 +16,7 @@ The overlay (div with class overlay) serves as a background that covers the enti
 It becomes visible when the menu is opened, and its appearance is animated to slide in from the left, creating a smooth transition effect.
 
 ## Toggle Effect:
-
+#
 The JavaScript code adds a class (change) to the menu bars when clicked, changing their appearance (rotating and fading) to provide a visual indication of the menu state.
 
 ## Section Transitions:
