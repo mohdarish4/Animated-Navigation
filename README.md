@@ -23,6 +23,5 @@ The JavaScript code adds a class (change) to the menu bars when clicked, changin
 
 The different sections of the webpage (home, about, skills, projects, contact) have background color changes, creating a smooth visual transition when scrolling through the page.
 
-#
 
 Animated Navigation makes the menu and other elements on the page move in a visually appealing way. It adds a layer of interactivity and style to the user interface, making the website more engaging and user-friendly.
